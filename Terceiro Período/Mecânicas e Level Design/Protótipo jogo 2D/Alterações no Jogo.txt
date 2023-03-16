@@ -1,0 +1,13 @@
+Objetivo: Testar mecânicas físicas e o impacto delas no gameplay principal; produzir um protótipo que mostre alguns destes testes. 
+
+
+Dê play e tente entender como ele funciona;
+Quais regras você acha interessante? Quais valores você gostaria de mudar?
+Abra a parte de eventos e analise os valores, clique nos objetos e veja quais as propriedades dele. Mude alguns valores e dê play para testar como ficou.
+Analise o resultado e pense em mais mudanças;
+Entre no ciclo de fazer mudanças, testar, analisar e pensar em mais modificações até você ter uma mecânica principal que goste e faça sentido. 
+Exporte em html5 e faça o upload no itch.ioLinks to an external site. como jogável na página.
+Explique no texto do itch.io quais mudanças você fez e o por que decidiu mantê-las.
+
+
+

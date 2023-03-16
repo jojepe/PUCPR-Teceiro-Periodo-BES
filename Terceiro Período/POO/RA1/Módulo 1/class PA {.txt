@@ -1,0 +1,17 @@
+class PA {
+
+	public static void main (String [] args){
+
+		Scanner input = new Scanner(System.in);
+
+		System.out.println("Escreva o primeiro termo");
+		int a1 = input.nextInt();
+		System.out.println("Escreva a razão da PA");
+		int r = input.nextInt();
+		a_n = a1 + (n - 1) * r;
+		s_n = (a1 + an) * (n / 2);
+ 		System.out.println("O último termo foi %i", a_n);
+		System.out.println("A soma dos termos foi %i", s_n);
+	}
+
+}
