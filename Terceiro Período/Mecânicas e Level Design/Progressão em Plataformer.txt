@@ -1,0 +1,13 @@
+Passarinho indefeso indo pra onde?
+
+habilidades - planar, pular, andar * correr, voar, bicar, fazer coco
+
+Objetivo - encontrar a mamãe no final
+
+Primeiro Level - Floresta - besouros, utilizando estacas para treinar a precisão de cair
+
+Segundo Level - Caverna - Boulder, focando em correr para conseguir passar por obstáculos específicos na parede do tipo Spike
+
+Terceiro Level - Praia - xxx, utilizar voo para implementar mecânica e nível de desviar.
+
+
